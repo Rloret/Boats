@@ -8,3 +8,5 @@ posición de nuevo.
 Cada vez que uno de los jugadores capture una boya, se le sumará un punto a su puntuación.
 En el momento en el que uno de los participantes llegue a 7 puntos, ganará la partida y
 reempezará la carrera.
+
+![alt tag](http://i.imgur.com/2bQuMme.png)
