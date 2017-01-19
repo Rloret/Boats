@@ -9,4 +9,4 @@ Cada vez que uno de los jugadores capture una boya, se le sumará un punto a su 
 En el momento en el que uno de los participantes llegue a 7 puntos, ganará la partida y
 reempezará la carrera.
 
-[![BOATS VIDEO](http://i.imgur.com/2bQuMme.png)](https://www.youtube.com/watch?v=RGOLqsHfeAE&t=1s)
+[![BOATS VIDEO](http://i.imgur.com/2bQuMme.png)](https://www.youtube.com/watch?v=9Ms4Bn4WIuI)
