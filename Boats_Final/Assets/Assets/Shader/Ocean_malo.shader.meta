@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d4b56fa2a5759174189aeec2ba6b38c2
+timeCreated: 1460912070
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _SkyBox: {fileID: 8900000, guid: dca4895312fd01345a74d17ee71db723, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
